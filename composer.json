@@ -1,0 +1,20 @@
+{
+    "name": "adilab/core",
+    "description": "Base functionalities for Adi for PHP packages",
+    "homepage": "https://github.com/adilab/core.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Zurkiewicz",
+            "email": "adrian@adilab.net"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/adilab/core/issues"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
